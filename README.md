@@ -24,3 +24,17 @@ Done. Now run:
   cd vite-vue3-element-app
   yarn
   yarn dev
+
+
+## 项目依赖
+
+### 1.1 安装
+
+[在项目中使用 Element Plus](https://element-plus.gitee.io/zh-CN/guide/quickstart.html)
+
+yarn add element-plus
+
+[Vue Router 是 Vue.js 的官方路由](https://router.vuejs.org/zh/installation.html)
+
+yarn add vue-router
+
